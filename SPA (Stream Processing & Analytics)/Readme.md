@@ -1,3 +1,5 @@
+<h1>Streaming Data Analytics for a Pizza Delivery Chain</h1>
+
 Assume that you are working as analyst for “Pizzario”, a pizza delivery chain. The group has collected some interesting characteristics of customers who had purchased their pizza earlier. (Refer the attached pizza_customers.csv file for the same). The marketing team is planning a campaign to increase the sales of a newly launched pizza. Before that they want to analyze the segmentation of existing customers so that they can have the clearer picture about the customer categories.
 
 Exercise 1: [5 marks] <br>
